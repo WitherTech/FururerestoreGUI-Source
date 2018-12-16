@@ -1,0 +1,9 @@
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\bin\Release\tsschecker-gui.exe.config
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\bin\Release\tsschecker-gui.exe
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\bin\Release\tsschecker-gui.pdb
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\obj\Release\tsschecker_gui.Form1.resources
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\obj\Release\tsschecker_gui.Properties.Resources.resources
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\obj\Release\tsschecker-gui.csproj.GenerateResource.cache
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\obj\Release\tsschecker-gui.csproj.CoreCompileInputs.cache
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\obj\Release\tsschecker-gui.exe
+C:\Users\Witherking25\Desktop\futurerestore-gui-master\obj\Release\tsschecker-gui.pdb
